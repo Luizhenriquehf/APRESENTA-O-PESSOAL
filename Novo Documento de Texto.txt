@@ -9,7 +9,7 @@
   <body class="bg-gray-50 text-gray-800 font-sans">
     <header class="bg-blue-600 text-white p-6 shadow-md">
       <h1 class="text-3xl font-bold">Luiz Henrique Honorato Floriano</h1>
-      <p class="text-lg mt-1">"Dedico meu tempo para ver você crescer financeiramente."</p>
+      <p class="text-lg mt-1">"Dedico meu tempo para crescer financeiramente, profissionalmente e pessoalmente."</p>
     </header>
 
     <main class="max-w-4xl mx-auto p-6">
@@ -18,8 +18,8 @@
         <h2 class="text-2xl font-bold border-b pb-2 mb-4">Minha História</h2>
         <p>
           Sou um jovem determinado, com sede de crescimento. Ao longo da minha trajetória,
-          enfrentei desafios, mas nunca deixei de lado o desejo de ajudar outras pessoas
-          a vencer na vida — especialmente financeiramente.
+          enfrentei desafios, mas nunca deixei de lado o desejo de querer sempre me colocar em algum lugar melhor , com luta e persistência, e poder sempre ajudar outras pessoas
+          na vida.
         </p>
       </section>
 
@@ -28,7 +28,7 @@
         <h2 class="text-2xl font-bold border-b pb-2 mb-4">Minha Missão</h2>
         <p>
           Quero transformar vidas por meio de orientação prática e apoio real.
-          Não desisto das pessoas. Dedico meu tempo a cada uma como se fosse um só projeto.
+          Não desisto das dificuldades. Dedico meu tempo a cada uma como se fosse um só projeto.
         </p>
       </section>
 
@@ -36,7 +36,7 @@
       <section class="my-10">
         <h2 class="text-2xl font-bold border-b pb-2 mb-4">Meus Valores</h2>
         <ul class="list-disc ml-6 space-y-2">
-          <li>Compromisso real com cada pessoa</li>
+          <li>Compromisso real com cada pessoa, e trabalho.</li>
           <li>Persistência, mesmo quando o caminho parece impossível</li>
           <li>Foco em resultados concretos e mudança de vida</li>
         </ul>
@@ -60,7 +60,8 @@
           class="inline-block bg-green-600 text-white px-6 py-2 rounded-lg hover:bg-green-700"
           target="_blank"
         >
-          Falar no WhatsApp
+          Falar no WhatsApp : 48996162773
+          E-mail: luiz.henrique.honorato.f@gmail.com
         </a>
       </section>
     </main>
