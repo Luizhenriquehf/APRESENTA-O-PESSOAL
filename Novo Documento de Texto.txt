@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Luiz Henrique - Minha Jornada</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-50 text-gray-800 font-sans">
+    <header class="bg-blue-600 text-white p-6 shadow-md">
+      <h1 class="text-3xl font-bold">Luiz Henrique Honorato Floriano</h1>
+      <p class="text-lg mt-1">"Dedico meu tempo para ver você crescer financeiramente."</p>
+    </header>
+
+    <main class="max-w-4xl mx-auto p-6">
+      <!-- Sobre Mim -->
+      <section class="my-10">
+        <h2 class="text-2xl font-bold border-b pb-2 mb-4">Minha História</h2>
+        <p>
+          Sou um jovem determinado, com sede de crescimento. Ao longo da minha trajetória,
+          enfrentei desafios, mas nunca deixei de lado o desejo de ajudar outras pessoas
+          a vencer na vida — especialmente financeiramente.
+        </p>
+      </section>
+
+      <!-- Missão -->
+      <section class="my-10">
+        <h2 class="text-2xl font-bold border-b pb-2 mb-4">Minha Missão</h2>
+        <p>
+          Quero transformar vidas por meio de orientação prática e apoio real.
+          Não desisto das pessoas. Dedico meu tempo a cada uma como se fosse um só projeto.
+        </p>
+      </section>
+
+      <!-- Valores -->
+      <section class="my-10">
+        <h2 class="text-2xl font-bold border-b pb-2 mb-4">Meus Valores</h2>
+        <ul class="list-disc ml-6 space-y-2">
+          <li>Compromisso real com cada pessoa</li>
+          <li>Persistência, mesmo quando o caminho parece impossível</li>
+          <li>Foco em resultados concretos e mudança de vida</li>
+        </ul>
+      </section>
+
+      <!-- Projetos ou Serviços -->
+      <section class="my-10">
+        <h2 class="text-2xl font-bold border-b pb-2 mb-4">O que estou construindo</h2>
+        <p>
+          Atualmente estou desenvolvendo um projeto que ajuda pessoas a dobrar sua renda,
+          organizar sua vida financeira e criar fontes de renda reais, com passo a passo
+          e acompanhamento.
+        </p>
+      </section>
+
+      <!-- Contato -->
+      <section class="my-10">
+        <h2 class="text-2xl font-bold border-b pb-2 mb-4">Fale comigo</h2>
+        <a
+          href="https://wa.me/SEUNUMERO"
+          class="inline-block bg-green-600 text-white px-6 py-2 rounded-lg hover:bg-green-700"
+          target="_blank"
+        >
+          Falar no WhatsApp
+        </a>
+      </section>
+    </main>
+
+    <footer class="bg-gray-200 text-center py-4 text-sm text-gray-600">
+      © 2025 Luiz Henrique - Todos os direitos reservados.
+    </footer>
+  </body>
+</html>
